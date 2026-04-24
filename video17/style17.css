@@ -1,0 +1,38 @@
+.red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+span > p{
+    background-color: green;
+}
+
+div p{
+    background-color: yellow;
+}
+
+*{
+    margin: 0px;
+    padding: 0%;
+}
+
+a:visited{
+    color:yellow;
+}
+
+a:link{
+    color:green;
+}
+
+a:hover{
+    background-color:blue;
+}
+a:active{
+    background-color: red;
+}
+.reed:focus{
+    background-color: black;
+}
