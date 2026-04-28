@@ -1,0 +1,40 @@
+#abc{
+    font-family: Arial, sans-serif;
+    text-decoration: underline;
+    text-indent: 300px;
+}
+#hfy{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#apple{
+    font-family: cursive;
+}
+#orange{
+    font-family: monospace;
+}
+#ban{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#grape{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#kiwi{
+    font-family: 'Courier New', Courier, monospace;
+}
+#lemon{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ttt{
+    text-decoration: line-through;
+    text-decoration-color: red;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 3px;
+    font-size: 100px;
+    text-align: center;
+}
+#tfg{
+    font-family: "Playwrite NO", cursive;
+}
+h2{
+    text-transform: capitalize;
+}

@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    background-color: lightblue;
+}
+
+.box1{
+    padding: 50px;
+    border: 2px solid blue;
+    margin: 10px;
+    border-radius: 10px 50px 10px 50px;
+    border-style: dashed;
+}
+
+.box2{
+    padding: 50px;
+    border: 2px solid blue;
+    margin: 10px;
+    border-radius: 50px 10px 50px 10px;
+    border-style: dashed;
+}
